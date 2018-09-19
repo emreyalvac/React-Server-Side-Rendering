@@ -8,5 +8,6 @@ npm i
 Run dev mode
 
 npm run dev
-
-// localhost:2048
+```console
+localhost:2048
+```
